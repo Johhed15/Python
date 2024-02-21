@@ -3,9 +3,9 @@
 
 ## The three folders contain work from these courses
 
-- Grundläggande programmering i python(Borås)
-- Programmera mera i python (Borås)
-- Introduction to python(Linköping)
+- Grundläggande programmering i Python(Borås)
+- Programmera mera i Python (Borås)
+- Introduction to Python(Linköping)
 
 <br>
 
@@ -191,6 +191,7 @@ demografi()
 
 ```
 
+<br>
 <br>
 
 <div align="center">

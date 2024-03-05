@@ -74,7 +74,7 @@ def generate_text(filename, word, max_amount):
     msg = cur_word 
     
     try:
-        with open('neighbors.txt', 'r') as file:
+        with open('neighbors.txt', 'r', encoding= 'cp1252') as file:
         
                 successor = file.read()# all neighbors to lower and saving the text
         successor = ast.literal_eval(successor)

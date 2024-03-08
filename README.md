@@ -12,7 +12,7 @@
 #### If you have any questions regarding the work, please contact me
 
 
-## Example of a simple program that creates user choice outputs 
+## Example of a simple program that creates user choice outputs from world data
 
 ```Python
 import numpy as np
